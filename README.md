@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### A Programming Enthusiast
-🔭 I like to challenge myself on subjects I have no knowledge of, to see if I can manage it (Most of the time, I can manage it!)
+🔭 I like to challenge myself on subjects I have no knowledge of, to see if I can manage it (Most of the time, I can manage it!) \n
 🌱I developed new interest in frontend development, especially in React.js and I am loving it!
 🤔Not exactly an expert so if there is some problem to solve, I probably don't know how to solve it, but I will learn how to do it!
 
