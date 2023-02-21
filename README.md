@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 ### A Programming Enthusiast
 🔭 I like to challenge myself on subjects I have no knowledge of, to see if I can manage it (most of the time, I can manage it!) <br/>
 <br/>
-🌱I developed new interest in frontend development, especially in React.js and I am loving it! <br/>
+🌱I am currently a frontend developer, who loves her job!  <br/>
 <br/>
-🤔Not exactly an expert so if there is some problem to solve, I probably don't know how to solve it, but I will learn how to do it! <br/>
+😄If there is a problem to solve, I won't sleep until I do! <br/>
+<br/>
+🤔I developed a new interest in backend development, currently learning FastAPI and more to come for sure... <br/>
 
 
 
