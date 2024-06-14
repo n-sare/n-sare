@@ -14,7 +14,7 @@ I'm Nesibe Sare Özkan, a passionate software developer and computer engineer. W
 
 I'm always eager to connect with fellow developers, tech enthusiasts, and anyone passionate about web development. Let's learn from each other and collaborate on exciting projects. You can reach out to me through the following channels:
 
-- 📧 Email: nesibe_03@outlook.com
+- 📧 Email: nesibesareoz@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/nesibe-sare-ozkan/
 
 Don't hesitate to get in touch—I look forward to connecting with you!
